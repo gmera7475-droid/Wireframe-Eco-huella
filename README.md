@@ -6,9 +6,7 @@ Crear un boceto que represente de forma gráfica la estructura de los elementos 
 Es una manera de garantizar que las funciones se desarrollen segun lo planeado. Con el diseño del wireframe
 se logra definir los elementos que darán estrcutrua a la interfaz junto con los procesos que darán funcionalidad a la aplicación. 
 
-La primera pantalla de Eco-Huella muestra la interfaz principal que visualizará el usuairo, se representan la lista de tareas que debe cumplir y muestra los puntos obtenidos durante el día. 
-En la segunda pantalla se detalla las estadísticas del usuario a lo largo de la semana con una gráfico de barras. 
-La última pantalla se definen los logros obtenidos junto con una función de activar un mensaje de recostario al usuario. 
+La primera pantalla de Eco-Huella muestra la interfaz principal que visualizará el usuario, se representan la lista de tareas que debe cumplir y muestra los puntos obtenidos durante el día. En la segunda pantalla se detalla las estadísticas del usuario a lo largo de la semana con un gráfico de barras. La última pantalla se definen los logros obtenidos junto con una función de activar un mensaje de recordatorio al usuario. 
 
 # Wireframe a mano
 <img width="1119" height="575" alt="image" src="https://github.com/user-attachments/assets/ec850065-69c2-4691-b2d4-0d2f86792215" />
